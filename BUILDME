@@ -1,0 +1,1 @@
+gcc -std=gnu11 -O3 *.c -o stutter
